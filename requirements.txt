@@ -1,0 +1,6 @@
+numpy
+torch
+gymnasium
+pennylane
+pennylane-lightning
+scipy
